@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfConvertor", "PdfConvertor\PdfConvertor.csproj", "{C647A224-1C16-450D-B0BF-8C92C6C39465}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task", "Task\Task.csproj", "{B87ADFA6-6A8A-4B02-96B6-74760BD47317}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C647A224-1C16-450D-B0BF-8C92C6C39465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C647A224-1C16-450D-B0BF-8C92C6C39465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C647A224-1C16-450D-B0BF-8C92C6C39465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C647A224-1C16-450D-B0BF-8C92C6C39465}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B87ADFA6-6A8A-4B02-96B6-74760BD47317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87ADFA6-6A8A-4B02-96B6-74760BD47317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87ADFA6-6A8A-4B02-96B6-74760BD47317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87ADFA6-6A8A-4B02-96B6-74760BD47317}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {161E5086-82F5-475F-83E4-87CFD7EA2888}
+	EndGlobalSection
+EndGlobal
